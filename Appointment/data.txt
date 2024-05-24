@@ -1,0 +1,20 @@
+Amar,10000,Bangalore,01-Mar-2024,ckuthyar@gmail.com
+Babu,11000,Hyderabad,02-Mar-2024,ckuthyar@gmail.com
+Charles,12000,Chennai,03-Mar-2024,ckuthyar@gmail.com
+Dinesh,13000,Pune,04-Mar-2024,ckuthyar@gmail.com
+Eshwar,14000,Ahmedabad,05-Mar-2024,ckuthyar@gmail.com
+Fatima,15000,Srinagar,06-Mar-2024,ckuthyar@gmail.com
+Girish,16000,Trivandrum,07-Mar-2024,ckuthyar@gmail.com
+Hemant,17000,Ranchi,08-Mar-2024,ckuthyar@gmail.com
+Irene,18000,Kolkatta,09-Mar-2024,ckuthyar@gmail.com
+Janet,19000,Jaipur,10-Mar-2024,ckuthyar@gmail.com
+Kishan,20000,Varanasi,11-Mar-2024,ckuthyar@gmail.com
+Lalu,21000,Mysore,12-Mar-2024,ckuthyar@gmail.com
+Manish,22000,Belgaum,13-Mar-2024,ckuthyar@gmail.com
+Neela,23000,New Delhi,14-Mar-2024,ckuthyar@gmail.com
+Ojas,24000,Lucknow,15-Mar-2024,ckuthyar@gmail.com
+Prathima,25000,Kanpur,16-Mar-2024,ckuthyar@gmail.com
+Queenie,26000,Bhopal,17-Mar-2024,ckuthyar@gmail.com
+Robin,27000,Mumbai,18-Mar-2024,ckuthyar@gmail.com
+Suresh,28000,Nagpur,19-Mar-2024,ckuthyar@gmail.com
+Tanmay,29000,Ranchi,20-Mar-2024,ckuthyar@gmail.com
